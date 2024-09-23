@@ -53,6 +53,7 @@ This script plays a key role in matching and aligning tracked objects across dif
 ### Requirements
 
 The following Python libraries are likely required for running the scripts:
+* YOU NEED TO DOWNLOAD THE FASTREID WEIGHTS (TRAINED ON VeRI-WILD)
 * opencv-python for video processing.
 * torch or tensorflow for deep learning model inference.
 * tqdm for progress tracking.
