@@ -1,6 +1,6 @@
 
 # Bengaluru Mobility Challenge 2024 - Traffic Tracking and Forecasting
-This repository contains the solution for Phase 1 of the Bengaluru Mobility Challenge 2024, hosted on IEEE Dataport.
+This repository contains the solution for Phase 2 of the Bengaluru Mobility Challenge 2024, hosted on [IEEE Dataport](https://ieee-dataport.org/competitions/bengaluru-mobility-challenge-2024).
 
 It contains Python scripts that facilitate object tracking, vehicle re-identification feature extraction, and similarity calculations in videos. The goal of the project is to track objects, extract relevant features, and compute similarities between tracked objects across different camera views. This README provides a detailed explanation of each of the scripts, their purpose, and their functionality.
 ### Files
