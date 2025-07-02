@@ -3,6 +3,8 @@
 This repository contains the solution for Phase 2 of the Bengaluru Mobility Challenge 2024, hosted on [IEEE Dataport](https://ieee-dataport.org/competitions/bengaluru-mobility-challenge-2024).
 
 It contains Python scripts that facilitate object tracking, vehicle re-identification feature extraction, and similarity calculations in videos. The goal of the project is to track objects, extract relevant features, and compute similarities between tracked objects across different camera views. This README provides a detailed explanation of each of the scripts, their purpose, and their functionality.
+[Deck](https://docs.google.com/presentation/d/1NW70dMrwo3I1b9Mvd3uoLGFgT67USRUboYVCpbX9MJY/edit?usp=sharing)
+
 ### Files
 1. trak.py
 This script handles the process of tracking objects in a video and extracting features for each vehicle detected in each frame.
